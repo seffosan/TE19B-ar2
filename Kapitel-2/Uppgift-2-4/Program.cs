@@ -11,6 +11,6 @@ namespace Uppgift_2_4
         Console.Write("ange heltal")
 
             Console.WriteLine("Hello World!"); 
-        }
+        } 
     }
 }
