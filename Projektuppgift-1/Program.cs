@@ -24,7 +24,7 @@ namespace Projektuppgift_1
             Console.WriteLine("3. Spelets regler (inte för att man ska följa de. valet finns bara för dekoration).");
             Console.WriteLine("4. avsluta programmet, som ditt ex avslutade dig.");
             menyVal = Console.ReadLine();
-            // Läs in menyVal
+            // Läs in menyValjhh
 
             // switch menyVal
             // case 1: Spela en omgång av 21:an
